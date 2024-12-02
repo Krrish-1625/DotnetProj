@@ -27,7 +27,7 @@ namespace MyFirstDotnetApp
         {
             app.Run(async context =>
             {
-                await context.Response.WriteAsync("Hello, World! By Krushna");
+                await context.Response.WriteAsync("Hello, World!Welcome in Krushna's Aura");
             });
         }
     }
